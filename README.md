@@ -25,4 +25,4 @@ Comandos para Iniciar la APP...
 
 >> pipenv install drf-yasg
 
-"Este proyecto es un simple ABM donde podes Publicar tus Productos...Cuenta con un Login y Register integrados con el backend" 
+Este proyecto es un simple ABM donde podes Publicar tus Productos con el Fron y Back integrados.
