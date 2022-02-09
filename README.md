@@ -4,8 +4,8 @@
                                                  
 Comandos para Iniciar la APP...
 
-    Front-End
-- Abrir desde WebStorm/VisualCode
+- Front-End
+(Hecho en React)
 
 >> npm install
 
@@ -13,8 +13,8 @@ Comandos para Iniciar la APP...
 
 >> npm start
 
-     Back-End
--hecho en PyCharm
+- Back-End
+(hecho en PyCharm)
   
 >> pip install pipenv==2018.11.26
 
