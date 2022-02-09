@@ -4,7 +4,7 @@
                                                  
 Comandos para Iniciar la APP...
 
-    Front-End
+    - Front-End
  -hecho en React-                                                                         
 
 >> npm install
@@ -13,7 +13,7 @@ Comandos para Iniciar la APP...
 
 >> npm start
 
-     Back-End
+     - Back-End
  -hecho en PyCharm-
   
 >> pip install pipenv==2018.11.26
