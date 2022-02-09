@@ -7,9 +7,9 @@ Comandos para Iniciar la APP...
 - Front-End
 (Hecho en React)
 
->> npm install
-
 >> cd e-commerce/
+
+>> npm install
 
 >> npm start
 
