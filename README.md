@@ -4,7 +4,7 @@
                                                  
 Comandos para Iniciar la APP...
 
-    - Front-End
+    -Front-End
  -hecho en React-                                                                         
 
 >> npm install
