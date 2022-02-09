@@ -5,7 +5,7 @@
 Comandos para Iniciar la APP...
 
     Front-End
--hecho en React                                                                        
+- Abrir desde WebStorm/VisualCode
 
 >> npm install
 
